@@ -56,6 +56,6 @@ This guide in it's current form is copied verbatim (with name/email changes) fro
 
 ### Contact
 
-If you’d like to suggest tweaks to this page, [submit a pull request](https://github.com/loomble/website/commits/master/pages/guidelines). If you’d like to get in touch with someone on the Core Team with a question or concern related to our community guidelines or other larger concerns, email [opensource@loomble.com](mailto:opensource@loomble.com).
+If you’d like to suggest tweaks to this page, [submit a pull request](https://github.com/loomble/website/commits/master/pages/guidelines.md). If you’d like to get in touch with someone on the Core Team with a question or concern related to our community guidelines or other larger concerns, email [opensource@loomble.com](mailto:opensource@loomble.com).
 
 As always, for issues, bug reports, pull requests, docs, etc., [GitHub](https://github.com/loomble) is still the right place to go.
