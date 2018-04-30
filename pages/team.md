@@ -18,5 +18,5 @@ Loomble is an Open Source project that relies on the tireless support of individ
   * [michael@loomble.com](mailto:michael@loomble.com)
 
 - #### Yul Kwon
-  Co-founder / CBO / CSO / CMO
+  Co-founder / COO
   * [yul@loomble.com](mailto:yul@loomble.com)
