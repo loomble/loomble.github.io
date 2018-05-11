@@ -5,7 +5,7 @@ title: "Loomble Community Guidelines"
 
 # Loomble Community Guidelines
 
-Our Community Guidelines / Code of Conduct is designed to make it clear that we believe in tolerance, respect, inclusion and hard work. We’ve built a tremendously impressive community of good people, and our goal is to continue growing along the same trajectory.
+Our Community Guidelines are designed to make it clear that we believe in tolerance, respect, inclusion and hard work. We’ve built a tremendously impressive community of good people, and our goal is to continue growing along the same trajectory.
 
 
 The internet is _full_ of codes of conduct, employee guidelines, community charters and then some. We’ve custom-written some bits of ours, but nearly everything is borrowed from the [Ember.js Community Guidelines](https://www.emberjs.com/guidelines/) who also borrowed from people, companies and projects that have already done solid jobs at this very task (see our reference list below). No part of this is an endorsement of any of these people, companies or projects—simply us acknowledging that the specific language we’re referencing seems to mirror our own ideals and intentions.
@@ -20,7 +20,7 @@ We strive to:
 5. **Step down considerately**: Members of every project come and go. When somebody leaves or disengages from the project or community, we ask that they do so in a way that minimizes disruption to the rest. They should tell people they are leaving and take the proper steps to ensure that others can pick up where they left off.
 6. **Take responsibility for our words and our actions**: We can all make mistakes; when we do, we take responsibility for them. If someone has been harmed or offended, we listen carefully and respectfully, and work to right the wrong.
 
-### Diversity: Everyone is Welcome
+### Everyone is Welcome
 
 We are committed to being a community that everyone feels good about joining. Although we may not be able to satisfy everyone, we will always work to treat everyone well.
 
@@ -32,7 +32,7 @@ The following list expresses some of our many intentions on these topics:
 
 1. **Setting the direction**: The ultimate direction of Loomble comes from our "benevolent dictators," who delegate specific responsibilities and the corresponding authority to a series of teams and individuals. Currently, the primary group of people directing the project (and with the ability to approve and make substantial changes) is known as the [Loomble Core Team](/team). The Loomble Core Team is a living body, with members added and removed as project and personal priorities shift. Leadership is not an award, right, or title; it is a privilege, a responsibility and a mandate, and one the Loomble Core Team takes seriously.
 2. **We delegate**: Good leaders know when to delegate. The best leaders balance delegation with hard work of their own. Of course, leadership doesn’t mean that leaders delegate unpleasant work to others. Instead, leaders balance hard work on their own—leadership by example—with delegation to others. A leader's foremost goal is ensuring that their team members and team succeed.
-3. **We lead by example**: The Code of Conduct does not only apply to leaders; it applies to leaders more. Leaders do their very best to show more patience, more respect, and more civility than other members of the Loomble community.
+3. **We lead by example**: These guidelines are not only applicable to community members; it applies to leaders more. Leaders do their very best to show more patience, more respect, and more civility than other members of the Loomble community.
 4. **We value discussion, data and decisiveness**: We gather opinions, data and commitments from concerned parties before making decisions. Once a reasonable amount of research is performed and data collected, we do our best to move decisively and efficiently. If we make a mistake, we’ll go back and fix it.
 5. **We give credit where it’s due**: A good leader does not seek the limelight but aims to congratulate their team for the work they do. While leaders are frequently more visible than their team, leaders in the Loomble Community use their visibility to highlight the great work of their team members and others.
 6. **We’ll help however we can**: If a community member has a concern, it should be [brought to the Core Team](mailto:opensource@loomble.com). Know that we’ll do our best to help you out of any precarious of uncomfortable positions. Your happiness, productivity and peace of mind is a priority for us.
@@ -43,7 +43,7 @@ We expect leaders and community members to be aware when they are conflicted due
 
 When in doubt, ask for a second opinion. Perceived conflicts of interest are important to address; as a leader, act to ensure that decisions are credible even if they must occasionally be unpopular, difficult or favorable to the interests of one group over another.
 
-This Code is not exhaustive or complete, nor is it a rulebook; it serves to express our common goals and sentiments about our community. We expect it to be followed in spirit as much as in the letter.
+This guide is not exhaustive or complete, nor is it a rulebook; it serves to express our common goals and sentiments about our community. We expect it to be followed in spirit as much as in the letter.
 
 ### Source Materials
 
